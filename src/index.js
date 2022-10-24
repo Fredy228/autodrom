@@ -35,7 +35,7 @@ function init() {
     // Model
     {
         const loader = new GLTFLoader();
-        loader.load('.src/3d/Datsun_280Z.obj', gltf => {
+        loader.load('.src/3d/scene.gltf', gltf => {
         scene.add(gltf.scene);
         }, 
             function (error) {
