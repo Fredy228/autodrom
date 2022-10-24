@@ -1,0 +1,11 @@
+Model Information:
+* title:	Raccoonzao GLTF
+* source:	https://sketchfab.com/3d-models/raccoonzao-gltf-bbeac75b4cb04a5f82c9ea3b1a601857
+* author:	giovannixgb (https://sketchfab.com/giovannixgb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Raccoonzao GLTF" (https://sketchfab.com/3d-models/raccoonzao-gltf-bbeac75b4cb04a5f82c9ea3b1a601857) by giovannixgb (https://sketchfab.com/giovannixgb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
